@@ -1,0 +1,15 @@
+.light {
+    background-color: rgb(255, 184, 194);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fontsz {
+    font-size: 24px;
+}
+#textc {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#bgc {
+    background-color: rgb(144, 238, 144);
+    font-weight: bold
+}
